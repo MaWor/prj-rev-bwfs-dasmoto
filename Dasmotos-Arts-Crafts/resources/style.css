@@ -1,0 +1,46 @@
+
+#headbanner {
+
+  background-image: url("./images/pattern.jpeg");
+  font-size: 100px;
+  color: khaki;
+  font-weight: bold;
+  font-family: Helvetica;
+  text-align: center;
+
+}
+
+#starting {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+p {
+  font-family: Arial;
+  font-size: 18px;
+}
+h2 {
+
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+
+}
+
+h3 {
+  font-family: Arial;
+  font-weight: bold;
+}
+#H_brushes {
+  background-color: mediumspringgreen;
+  color: white;
+}
+
+#frames {
+  background-color: lightcoral;
+  color: white;
+}
+#paint {
+  background-color: lightblue;
+  color: white;
+}
